@@ -1,5 +1,5 @@
 
-// Name: Pedro Henrique Morais
+// Pedro Henrique Morais
 // Lab 5 - Number Guessing Game
 
 #include <iostream>
