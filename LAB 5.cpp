@@ -1,14 +1,13 @@
 
 // Name: Pedro Henrique Morais
 // Lab 5 - Number Guessing Game
-// Instructor: Busch
 
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
 using namespace std;
 
-// Function prototypes
+// prototypes
 void winMessage();
 void loseMessage();
 void replayMessage();
